@@ -7,8 +7,7 @@ class CheckCog:
         self.bot = bot
 
     @commands.command()
-    async def broadcast(self, ctx):
-
+    async def check(self, ctx, *):
         await ctx.send(ctx.channel)
 
 
