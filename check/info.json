@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "CNIAngel",
+    "INSTALL_MSG" : "Install completed. May the Odd Commence.",
+    "NAME" : "Check",
+    "SHORT" : "CC",
+    "DESCRIPTION" : "Returns channel that command was used in?",
+    "TAGS" : ["debug", "admin"]
+}

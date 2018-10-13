@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "CNIAngel",
+    "INSTALL_MSG" : "Install completed. May the Odd Commence.",
+    "NAME" : "Broadcast",
+    "SHORT" : "BDC",
+    "DESCRIPTION" : "Has RedBot repeat what you said in your set channel.",
+    "TAGS" : ["broadcast", "admin"]
+}
