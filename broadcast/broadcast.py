@@ -7,7 +7,7 @@ class BroadcastCog:
         self.bot = bot
 
     @commands.command()
-    async def broadcast(self, chnl : str, message :str ):
+    async def broadcast(self, chnl : str, *, message :str ):
         channel = chnl
 
         await channel.send(message)
